@@ -21,6 +21,13 @@ npm run start
 ```
 
 Finally you can download mp3 by sending a youtube link to the api with POST method
+Request Body:
+
+```
+{
+  "url": "https://www.youtube.com/watch?v=R_bYZMgx5MA"
+}
+```
 
 ## Authors
 
