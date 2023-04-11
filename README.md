@@ -33,6 +33,7 @@ Request Body:
 ## Authors
 
 * **Mehmet Akif Taş** - [Website](https://akiftas.dev)
+* **Özgür Hasan Ocak** - [Github](https://github.com/ozgurocak)
 
 ## License
 
